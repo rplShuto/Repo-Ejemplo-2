@@ -7,9 +7,6 @@ int main(void)
     //git commit -am "mensaje"
     //git push origin main
     //Prueba de sincronizacion con SourceTree
-    //--Otro comentario
-    //--Cambio antes de un merge
-    //y un cambio mas en develop
-    //--Se añade un comentario para feature/F1
-    //--Se trabaja en feature/F2
+    
+    //--Se borran todos los comentarios anteriores
 }
